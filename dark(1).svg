@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A101F"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#g)"/>
+<rect x="28" y="28" width="1144" height="304" rx="18" fill="none" stroke="#263248"/>
+<circle cx="58" cy="58" r="7" fill="#ef4444"/><circle cx="82" cy="58" r="7" fill="#f59e0b"/><circle cx="106" cy="58" r="7" fill="#10b981"/>
+<text x="60" y="125" fill="#94A3B8" font-family="monospace" font-size="23">$ whoami</text>
+<text x="60" y="178" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="48" font-weight="700">Md Zahid Ansari</text>
+<text x="60" y="220" fill="#22D3EE" font-family="monospace" font-size="21">&gt; Developer • AI Enthusiast • Problem Solver</text>
+<text x="60" y="260" fill="#94A3B8" font-family="monospace" font-size="18">Code  •  Build  •  Learn  •  Create</text>
+<rect x="60" y="287" width="500" height="3" rx="2" fill="url(#a)"/>
+<text x="1110" y="305" text-anchor="end" fill="#64748B" font-family="monospace" font-size="15">SYSTEM READY_</text>
+</svg>
